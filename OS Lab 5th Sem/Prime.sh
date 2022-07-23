@@ -1,3 +1,4 @@
+echo "RAJORSHI GHOSH Lab Exam"
 echo "Check whether a number is prime or not."
 echo -n "Enter any number: "
 read n

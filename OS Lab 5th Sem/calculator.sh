@@ -1,3 +1,4 @@
+echo "RAJORSHI GHOSH Lab Exam"
 echo "Menu driven simple calculator:"
 sum=0
 echo "enter first number:"
